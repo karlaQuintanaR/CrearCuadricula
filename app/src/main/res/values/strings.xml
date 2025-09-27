@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">PracticeGridApp</string>
+    <string name="architecture">Arquitectura</string>
+    <string name="business">Negocios</string>
+    <string name="crafts">Artesanía</string>
+    <string name="culinary">Culinaria</string>
+    <string name="design">Diseño</string>
+    <string name="fashion">Moda</string>
+    <string name="film">Película</string>
+    <string name="gaming">Juegos</string>
+    <string name="music">Musica</string>
+    <string name="painting">Pintura</string>
+    <string name="photography">Fotografía</string>
+    <string name="tech">Tech</string>
+
 </resources>
